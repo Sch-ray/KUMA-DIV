@@ -14,7 +14,7 @@ This directory contains 2 main enclosure parts: the top shell, the bottom shell,
 
 The light guides must be printed using transparent material.
 
-![print_view_1](./image/print1.jpg)
+![print_view_1](./Image/print1.jpg)
 
 **### Disassembly and Assembly Instructions:**
 

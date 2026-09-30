@@ -12,7 +12,7 @@
 这个目录包括3个零件：顶部壳体，底部壳体，导光柱。
 
 导光柱必须使用透明材料打印
-![print_view_1](./image/print1.jpg)
+![print_view_1](./Image/print1.jpg)
 
 ### 拆卸及组装说明：
 
