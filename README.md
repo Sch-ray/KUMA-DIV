@@ -47,4 +47,4 @@ This is my Tindie store:
 
 If you are interested in collaboration or have suggestions regarding the project, feel free to contact me by email:
 
-[Email]([xiao_hei666@yeah.net](mailto:xiao_hei666@yeah.net))
+[Email]xiao_hei666@yeah.net
